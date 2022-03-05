@@ -226,7 +226,7 @@ body {
 
 .boxed-layout,
 .frame-layout {
-    background-image: url('assets/images/pattern.png');
+    background-image: url('/https://ipl2022.github.io/iplfree/wp-content/themes/music-zone/assets/images/pattern.png');
 }
 
 #content {
@@ -2653,7 +2653,7 @@ object {
 .slick-prev:before, 
 .slick-next:before {
     content: "";
-	background-image: url('assets/images/right-arrow-angle.svg');
+	background-image: url('/https://ipl2022.github.io/iplfree/wp-content/themes/music-zone/assets/images/right-arrow-angle.svg');
     width: 16px;
     height: 16px;
     display: inline-block;
