@@ -9,8 +9,8 @@
 
 <channel>
 	<title>IPL 2022</title>
-	<atom:link href="/https://ipl2022.github.io/iplfree/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ipl2022.github.io/iplfree</link>
+	<atom:link href="https://ipl2022.github.io/iplfree/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ipl2022.github.io/iplfree</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 05 Mar 2022 19:13:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/</link>
-					<comments>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/#comments</comments>
+		<link>https://ipl2022.github.io/iplfree/2022/03/05/hello-world/</link>
+					<comments>https://ipl2022.github.io/iplfree/2022/03/05/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[iplprovider]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2022 19:13:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://ipl2022.github.io/iplfree/?p=1</guid>
+		<guid isPermaLink="false">https://ipl2022.github.io/iplfree/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ipl2022.github.io/iplfree/2022/03/05/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

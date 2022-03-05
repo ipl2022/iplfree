@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for IPL 2022	</title>
-	<atom:link href="/https://ipl2022.github.io/iplfree/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ipl2022.github.io/iplfree</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://ipl2022.github.io/iplfree/2022/03/05/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ipl2022.github.io/iplfree/2022/03/05/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 05 Mar 2022 19:13:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/#comment-1</link>
+		By: A WordPress Commenter		</title>
+		<link>https://ipl2022.github.io/iplfree/2022/03/05/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 05 Mar 2022 19:13:00 +0000</pubDate>
-		<guid isPermaLink="false">/https://ipl2022.github.io/iplfree/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://ipl2022.github.io/iplfree/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

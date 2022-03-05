@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/https://ipl2022.github.io/iplfree/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ipl2022.github.io/iplfree</link>
+	<atom:link href="https://ipl2022.github.io/iplfree/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ipl2022.github.io/iplfree</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 05 Mar 2022 19:13:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
