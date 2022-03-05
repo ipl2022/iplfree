@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IPL 2022</title>
+	<atom:link href="/https://ipl2022.github.io/iplfree/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://ipl2022.github.io/iplfree</link>
+	<description>FREE IPL 2022 IN INDIA</description>
+	<lastBuildDate>Sat, 05 Mar 2022 20:11:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>/https://ipl2022.github.io/iplfree/wp-content/uploads/2022/03/cropped-IPL-32x32.jpg</url>
+	<title>IPL 2022</title>
+	<link>/https://ipl2022.github.io/iplfree</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>IPL FREE WATCH CLICK ON IPL 2022</title>
+		<link>/https://ipl2022.github.io/iplfree/2022/03/05/for-ipl-2022-free-click-below/</link>
+					<comments>/https://ipl2022.github.io/iplfree/2022/03/05/for-ipl-2022-free-click-below/#respond</comments>
+		
+		<dc:creator><![CDATA[iplprovider]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2022 20:08:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/https://ipl2022.github.io/iplfree/?p=36</guid>
+
+					<description><![CDATA[YOU CAN ALSO CHECKOUT TUTORIAL VIDEO GIVEN BELOW]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns alignwide">
+<div class="wp-block-column" style="flex-basis:100%">
+<div class="wp-container-6223c46baa767 wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link" href="">IPL 2022</a></div>
+</div>
+</div>
+</div>
+
+
+
+<p>YOU CAN ALSO CHECKOUT TUTORIAL VIDEO GIVEN BELOW </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Coming soon Glitch video effects" width="819" height="461" src="https://www.youtube.com/embed/yqWX86uT5jM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://ipl2022.github.io/iplfree/2022/03/05/for-ipl-2022-free-click-below/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/</link>
+					<comments>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[iplprovider]]></dc:creator>
+		<pubDate>Sat, 05 Mar 2022 19:13:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/https://ipl2022.github.io/iplfree/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://ipl2022.github.io/iplfree/2022/03/05/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
